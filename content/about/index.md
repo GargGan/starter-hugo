@@ -2,4 +2,4 @@
 title: "About"
 ---
 
-Here's a bit about me.
+Contenu de la page "ABOUT"
